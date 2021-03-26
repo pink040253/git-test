@@ -6,9 +6,8 @@ else:
     import PySimpleGUI27 as sg
 from time import time
 
-
 # ----------------  Create Form  ----------------
-sg.ChangeLookAndFeel('Black')
+sg.ChangeLookAndFeel('Pink')
 sg.SetOptions(element_padding=(0, 0))
 
 layout = [[sg.Text('')],
