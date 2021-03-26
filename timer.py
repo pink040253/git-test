@@ -7,7 +7,7 @@ else:
 from time import time
 
 # ----------------  Create Form  ----------------
-sg.ChangeLookAndFeel('Pink')
+sg.ChangeLookAndFeel('Black')
 sg.SetOptions(element_padding=(0, 0))
 
 layout = [[sg.Text('')],
